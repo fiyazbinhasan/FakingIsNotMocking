@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26711.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FINM.TEST", "FINM.TEST\FINM.TEST.csproj", "{D868D9F4-0E6F-4A08-BDF5-5B8843BBE836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FINM.WEB", "FINM.WEB\FINM.WEB.csproj", "{A87D68A8-BEA8-44F3-849F-406F871A95E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D868D9F4-0E6F-4A08-BDF5-5B8843BBE836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D868D9F4-0E6F-4A08-BDF5-5B8843BBE836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D868D9F4-0E6F-4A08-BDF5-5B8843BBE836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D868D9F4-0E6F-4A08-BDF5-5B8843BBE836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87D68A8-BEA8-44F3-849F-406F871A95E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87D68A8-BEA8-44F3-849F-406F871A95E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87D68A8-BEA8-44F3-849F-406F871A95E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87D68A8-BEA8-44F3-849F-406F871A95E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FFEFC09-DB20-4225-B94C-FE67E50193BA}
+	EndGlobalSection
+EndGlobal
