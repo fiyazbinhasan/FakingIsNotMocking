@@ -1,11 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26711.1
+VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FINM.TEST", "FINM.TEST\FINM.TEST.csproj", "{D868D9F4-0E6F-4A08-BDF5-5B8843BBE836}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FINM.TEST", "FINM.TEST\FINM.TEST.csproj", "{D868D9F4-0E6F-4A08-BDF5-5B8843BBE836}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FINM.WEB", "FINM.WEB\FINM.WEB.csproj", "{A87D68A8-BEA8-44F3-849F-406F871A95E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FINM.WEB", "FINM.WEB\FINM.WEB.csproj", "{A87D68A8-BEA8-44F3-849F-406F871A95E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EDED45E2-E64C-474E-87DB-66063E5D7FB9}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

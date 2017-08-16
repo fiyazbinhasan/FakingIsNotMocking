@@ -1,0 +1,14 @@
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\b\FINM.TEST\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\b\FINM.TEST\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\b\FINM.TEST\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\b\FINM.TEST\Debug\netcoreapp2.0\FINM.TEST.deps.json
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\b\FINM.TEST\Debug\netcoreapp2.0\FINM.TEST.runtimeconfig.json
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\b\FINM.TEST\Debug\netcoreapp2.0\FINM.TEST.runtimeconfig.dev.json
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\b\FINM.TEST\Debug\netcoreapp2.0\FINM.TEST.dll
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\b\FINM.TEST\Debug\netcoreapp2.0\FINM.TEST.pdb
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\i\FINM.TEST\Debug\netcoreapp2.0\FINM.TEST.csprojResolveAssemblyReference.cache
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\i\FINM.TEST\Debug\netcoreapp2.0\FINM.TEST.csproj.CoreCompileInputs.cache
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\i\FINM.TEST\Debug\netcoreapp2.0\FINM.TEST.AssemblyInfoInputs.cache
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\i\FINM.TEST\Debug\netcoreapp2.0\FINM.TEST.AssemblyInfo.cs
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\i\FINM.TEST\Debug\netcoreapp2.0\FINM.TEST.dll
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\.vs\FakingIsNotMocking\lut\0\i\FINM.TEST\Debug\netcoreapp2.0\FINM.TEST.pdb
